@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "489007257025",
+    "project_id": "fir-333d8",
+    "storage_bucket": "fir-333d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489007257025:android:5a53caf3250084b17e0b40",
+        "android_client_info": {
+          "package_name": "com.payaki.payaki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489007257025-13ea851h8al5fefvebldiqun6q08hrli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.payaki.payaki",
+            "certificate_hash": "96662fc476479ee15715143b63ed8cdd998df23d"
+          }
+        },
+        {
+          "client_id": "489007257025-ldq7l76cvh0n1dm6bpc216renr41dl3b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.payaki.payaki",
+            "certificate_hash": "2a9046a41c79f84ee7ebf4f7bf5d8491db2955b4"
+          }
+        },
+        {
+          "client_id": "489007257025-q5ami99oji5gju8ei85jiot3beq01oiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXjjHM9mauMfrysyZHIlx1HeE-F5HgeD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489007257025-77g3tj3cb3fv6sgkj8ebubo788lt430m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "489007257025-a58psehi6jfe9p5bbb7v89vhn2u8p55m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.payaki.payaki"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
